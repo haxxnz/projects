@@ -7,7 +7,7 @@
 
 - [Food-boi (Working Title)](https://github.com/vaxxnz/food) - A food rescue platform that makes it easier for people to volunteer with food rescue programs that feed the needy. Built in partnership with Perfectly Imperfect.
 
-- [Terrible-boi (Working Title)](https://terriblehack.nz) A hackathon management platform. Built for the Terrible Ideas hackathon 
+- [Terrible-boi (Working Title)](https://terriblehack.nz) - A hackathon management platform. Built for the Terrible Ideas hackathon 
 
 ## Archived Projects
 
