@@ -1,6 +1,6 @@
 ---
 name: New project idea
-about: Submit a project idea
+about: Submit a project idea for the Haxx community to work on
 title: ""
 labels: project new_idea
 assignees: ""
