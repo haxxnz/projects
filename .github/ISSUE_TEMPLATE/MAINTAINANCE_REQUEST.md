@@ -2,7 +2,7 @@
 name: Maintainence Request
 about: Ask the Haxx Community to maintain your project for you
 title: ""
-labels: project new_idea
+labels: project maintain
 assignees: ""
 ---
 
