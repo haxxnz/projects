@@ -2,7 +2,7 @@
 name: New project idea
 about: Submit a project idea
 title: ""
-labels: project
+labels: project new_idea
 assignees: ""
 ---
 
