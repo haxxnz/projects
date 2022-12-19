@@ -1,0 +1,30 @@
+
+name: New project idea
+description: Submit a project idea that the Haxx community could work on. We mostly only support open source projects, but we might make a few exceptions if your porject is deemed important enough stay closed source.
+labels: project new_idea
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting a project idea. We'll get the community to take a look at it!
+
+        If you are still thinking about your idea, and are not submitting a project, please
+        join our [Discord](https://discord.gg/CXdq2DP29u) server, where you can ask questions in the [`#general`](https://discord.com/channels/884578058911219743/884578058911219749) channel about what is generally feasible.
+
+  - type: textarea
+    attributes:
+      label: Project description
+      description: What will the project do if designers design its required components and developers build it? Who does this project help?
+    validations:
+      required: true      
+  - type: textarea
+    attributes:
+      label: Repo links (optional)
+      description: |
+        If you have a repo link, please add it here. If you don't have one, don't worry as someone will help you create one when the project gets started
+  - type: textarea
+    attributes:
+      label: Design links (optional)
+      description: If you have any links to any designs or thinking you have already done, please add it here. 
+
+ 
