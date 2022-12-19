@@ -1,12 +1,14 @@
 
 name: New project idea
-description: Submit a project idea that the Haxx community could work on. We mostly only support open source projects, but we might make a few exceptions if your porject is deemed important enough stay closed source.
+description: Submit a project idea that the Haxx community could work on. 
 labels: project new_idea
 body:
   - type: markdown
     attributes:
       value: |
         Thank you for submitting a project idea. We'll get the community to take a look at it!
+        
+        We mostly only support open source projects, but we might make a few exceptions if your project is deemed important enough stay closed source ie: discouraging the deployment of duplicate scrapers that might cause a service to crash.
 
         If you are still thinking about your idea, and are not submitting a project, please
         join our [Discord](https://discord.gg/CXdq2DP29u) server, where you can ask questions in the [`#general`](https://discord.com/channels/884578058911219743/884578058911219749) channel about what is generally feasible.
