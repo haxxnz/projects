@@ -1,7 +1,7 @@
 
 name: New project idea
 description: Submit a project idea that the Haxx community could work on. 
-labels: project new_idea
+labels: "project, new_idea"
 body:
   - type: markdown
     attributes:
